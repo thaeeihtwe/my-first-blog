@@ -1,4 +1,6 @@
 *.pyc
+*.py~
+*.html~
 __pycache__
 myvenv
 db.sqlite3
